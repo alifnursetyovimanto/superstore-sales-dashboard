@@ -66,7 +66,7 @@ superstore-sales-dashboard/
 ├── superstore_insights.md     # Insight bisnis lengkap
 ├── dashboard_preview.png      # Screenshot dashboard
 └── data/
-    └── superstore_clean.csv   # Dataset setelah cleaning (opsional)
+    └── Superstore Sales Dataset - train.csv   # Dataset setelah cleaning (opsional)
 ```
 
 ---
