@@ -37,10 +37,10 @@ Interactive sales performance dashboard analyzing $2.3M revenue across categorie
 ## Temuan utama
 
 **1. Q4 mendominasi revenue**
-November dan Desember secara konsisten menjadi bulan terkuat — mencapai ~$200K+, hampir 3x bulan rata-rata. Februari adalah titik terendah (~$25K). Pola ini berulang konsisten selama 4 tahun.
+November dan Desember secara konsisten menjadi bulan terkuat mencapai ~$200K+, hampir 3x bulan rata-rata. Februari adalah titik terendah (~$25K). Pola ini berulang konsisten selama 4 tahun.
 
 **2. Technology adalah kategori paling profitable**
-Technology memimpin profit di hampir setiap bulan — profit November mencapai $75K+. Furniture memiliki sales yang cukup tinggi tapi margin tipis dibanding Technology.
+Technology memimpin profit di hampir setiap bulan profit November mencapai $75K+. Furniture memiliki sales yang cukup tinggi tapi margin tipis dibanding Technology.
 
 **3. South region underperform**
 West (~$130K) dan East (~$125K) mendominasi profit. South hanya menghasilkan ~$75K — 43% lebih rendah dari West meski jumlah orders kemungkinan tidak jauh berbeda.
