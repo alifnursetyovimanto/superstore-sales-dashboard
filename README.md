@@ -10,7 +10,7 @@ Interactive sales performance dashboard analyzing $2.3M revenue across categorie
 
 ## Live dashboard
 
-🔗 **[Lihat dashboard interaktif di Looker Studio](#)** ← ganti dengan link lo
+🔗 **[Lihat dashboard interaktif di Looker Studio](https://datastudio.google.com/reporting/1890a886-a8c3-4c7e-94ff-6875f533c284)**
 
 > Gunakan filter **Category** dan **Region** di pojok kanan atas untuk eksplorasi data secara interaktif.
 
